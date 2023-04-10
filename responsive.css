@@ -19,7 +19,7 @@
       display: none;
     }
       
-    span .menu-icon {
+    menu-icon {
        display: block;
     }  
       
@@ -32,17 +32,13 @@
       display: none;
     }
     
-     logo-image {
+     .logo-image {
       width: 100%;
     }
     
     .icons-container {
        width: 100%;
       }
-
-    .top-wrapper {
-      width: 100%;
-    }
       
     .lessons {
       margin-right: inherit;
@@ -59,7 +55,7 @@
     }
       
     footer p {
-      margin-left: 10px;
+      margin-left: 20px;
     }
       
     footer {
