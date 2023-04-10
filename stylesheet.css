@@ -207,7 +207,6 @@
   }
   
   footer {
-    padding-bottom: 20px;
     height: 40px;
     background-color: black;
   }
@@ -234,6 +233,9 @@
   li a {
     opacity: 0.5;
     color: white;
-  }
+    margin-left: 130px;
+    position: absolute;
+ }
+
 
   
