@@ -20,7 +20,16 @@
       line-height: 50px;
     }
       
-     .header-left {
+    .header-right {
+      display: none;
+    }
+      
+    .menu-icon {
+       display: block;
+       float: right;
+    }
+      
+    .header-left {
       width: 100%;
       line-height: 50px;
     }
@@ -36,10 +45,6 @@
      logo {
       width: 100%;
     }
-      
-    span.menu-icon {
-      display: block;
-    }
     
     .icons-container {
        width: 100%;
@@ -51,37 +56,13 @@
       
     .lesson {
       width: 100%;
-        line-height: 50px;
-    }
-      
-    .txt-contents {
-       width: 100%;
     }
 
-    .top-wrapper h1 {
-      font-size: 24px;
-      line-height: 36px;
-      color: blue;
-    }
-    
-    .top-wrapper p {
-      font-size: 14px;
-      line-height: 20px;
-      color: blue;
-    }
-      
-    .logo-image {
-      width: 100%;
-    }
-      
-    footer img {
-      float: left;
+    .top-wrapper {
       text-align: left;
-      width: 100%;
     }
-    
+      
     footer {
-      width: 100%;
       text-align: center;
     }
   }
