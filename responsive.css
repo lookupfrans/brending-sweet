@@ -15,16 +15,8 @@
   
   
   @media all and (max-width: 670px) {
-     header {
-      width: 100%
-    }
-      
     .header-right {
       display: none;
-    }
-    
-    section {
-      width: 100%;
     }
       
     h3 {
@@ -45,7 +37,7 @@
     
     .top-wrapper h1 {
       font-size: 24px;
-      line-height: 36px;
+      min-height: 36px;
       color: blue;
     }
     
@@ -55,9 +47,9 @@
       color: blue;
     }
       
-    .icons-container {
+    /*.icons-container {
       width: 100%;
-    }
+    }*/
     
     .lesson {
       width: 100%;
@@ -65,7 +57,6 @@
     
     footer {
       text-align: center;
-      width: 100%;
     }
   }
   
