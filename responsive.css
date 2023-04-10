@@ -65,6 +65,10 @@
       color: blue;
     }
       
+    .logo-image {
+      width: 100%;
+    }
+      
     footer img {
       float: left;
       text-align: left;
