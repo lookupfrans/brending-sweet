@@ -26,9 +26,10 @@
   }
   
   .container {
-    max-width: 1190px;
+    max-width: 1170px;
     padding: 0 20px;
     margin: 0 80px;
+    width: 100%;
   }
 
   .icons-container {
