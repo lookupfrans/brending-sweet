@@ -15,6 +15,20 @@
   
   
   @media all and (max-width: 670px) {
+     header {
+      width: 100%;
+      line-height: 50px;
+    }
+      
+     .header-left {
+      width: 100%;
+      line-height: 50px;
+    }
+      
+     .container {
+      width: 100%;
+    }
+      
     .header-right {
       display: none;
     }
@@ -30,16 +44,6 @@
     .icons-container {
        width: 100%;
       }
-   
-    .icons-container .icons h3{
-      font-size: 2rem;
-      text-align: left;
-    }
-
-    .icons-container .icons p{
-      font-size: 1rem;
-      text-align: left;
-    }
 
     .top-wrapper {
       width: 100%;
@@ -47,6 +51,7 @@
       
     .lesson {
       width: 100%;
+        line-height: 50px;
     }
       
     .txt-contents {
@@ -72,9 +77,11 @@
     footer img {
       float: left;
       text-align: left;
+      width: 100%;
     }
     
     footer {
+      width: 100%;
       text-align: center;
     }
   }
