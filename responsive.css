@@ -19,6 +19,10 @@
       display: none;
     }
     
+     logo {
+      width: 100%;
+    }
+      
     span.menu-icon {
       display: block;
     }
@@ -55,6 +59,10 @@
       font-size: 14px;
       line-height: 20px;
       color: blue;
+    }
+      
+    footer img {
+      width: 100%;
     }
     
     footer {
