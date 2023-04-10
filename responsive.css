@@ -58,6 +58,10 @@
       color: brown;
     }
       
+    footer p {
+      margin-left: 10px;
+    }
+      
     footer {
       text-align: center;
     }
