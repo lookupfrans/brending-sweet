@@ -206,18 +206,16 @@
     border-radius: 70px;
   }
   
-  footer p {
-    color: #b3aeb5;
-    font-size: 12px;
-    margin-top: 5px;
-    margin-left: 100px;
-  }
-  
   footer {
     padding-top: 30px;
     padding-bottom: 20px;
     height: 40px;
     background-color: black;
+  }
+
+  footer p {
+   color: #b3aeb5;
+   font-size: 12px;
   }
 
   .row {
@@ -226,21 +224,16 @@
   }
 
   h4 {
-    font-size: 20px;
+    font-size: 10px;
     opacity: 0.5;
     position: absolute;
     margin-left: 70px;
-  }
-
-  .col h4 {
-    margin-bottom: 5px;
+    color: white;
   }
 
   li a {
     opacity: 0.5;
     color: white;
-    margin-left: 130px;
-    position: absolute;
   }
 
   
