@@ -82,45 +82,6 @@
     margin-bottom: 3px;
   }
   
-  /*.btn-wrapper {
-    text-align: center;
-    margin: 20px 0;
-  }
-  
-  .btn-wrapper p {
-    margin: 10px 0;
-  }
-  
-  .signup {
-    background-color: #239b76;
-  }
-  
-  .facebook {
-    background-color: #3b5998;
-    margin-right: 10px;
-  }
-  
-  .twitter {
-    background-color: #55acee;
-  }
-  
-  .btn {
-    padding: 12px 24px;
-    color: white;
-    display: inline-block;
-    opacity: 0.8;
-    border-radius: 4px;
-    text-align: center;
-  }
-  
-  .btn:hover {
-    opacity: 1;
-  }
-  
-  .fa {
-    margin-right: 5px;
-  }*/
-  
   header {
     height: 65px;
     width: 100%;
@@ -232,7 +193,7 @@
   }
   
   footer img {
-    margin-left: 3px;
+    margin-left: 70px;
     width: 60px;
     border-radius: 70px;
   }
@@ -241,7 +202,7 @@
     color: #b3aeb5;
     font-size: 12px;
     margin-top: 5px;
-    margin-left: 3px;
+    margin-left: 95px;
   }
   
   footer {
