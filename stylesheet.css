@@ -231,6 +231,8 @@
     color: white;
     margin-left: 130px;
     position: absolute;
+    list-style: none;
+    font-size: 15px;
  }
 
   span.menu-icon {
