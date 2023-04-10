@@ -81,11 +81,13 @@
     font-size: 45px;
     letter-spacing: 5px;
     margin-bottom: 10px;
+    color: black;
   }
   
   .top-wrapper p {
     opacity: 0.7;
     margin-bottom: 3px;
+    color: black;
   }
   
   header {
@@ -208,7 +210,7 @@
     color: #b3aeb5;
     font-size: 12px;
     margin-top: 5px;
-    /*margin-left: 100px;*/
+    margin-left: 100px;
   }
   
   footer {
