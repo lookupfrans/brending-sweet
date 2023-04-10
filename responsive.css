@@ -18,16 +18,10 @@
     .header-right {
       display: none;
     }
-    
-     header {
-       width: 100%;
-       margin: 0;
-    }
       
     span .menu-icon {
        display: block;
-    }
-      
+    }  
       
     .container {
       width: 100%;
@@ -50,6 +44,10 @@
       width: 100%;
     }
       
+    .lessons {
+      margin-right: inherit;
+    }
+      
     .lesson {
       width: 100%;
     }
@@ -62,7 +60,5 @@
       
     footer {
       text-align: center;
-      width: 100%;
-      margin: 0;
     }
   }
