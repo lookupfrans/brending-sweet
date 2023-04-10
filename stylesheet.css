@@ -217,7 +217,7 @@
     padding-top: 30px;
     padding-bottom: 20px;
     height: 40px;
-    width: 100%;
+    background-color: black;
   }
 
   .row {
@@ -243,19 +243,4 @@
     position: absolute;
   }
 
-  /*.col-container ul li a {
-    maleft: 50px;rgin-
-  }*/
-
-  .col li {
-    list-style: none;
-  }
-
-  span.menu-icon {
-    color: white;
-    float: right;
-    font-size: 25px;
-    padding: 21px 0;
-    display: none;
-  }
   
