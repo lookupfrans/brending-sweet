@@ -28,9 +28,10 @@
        display: block;
     }
       
-    .header-left {
+      
+    .container {
       width: 100%;
-      line-height: 50px;
+      /*line-height: 50px;*/
     }
       
     .header-right {
