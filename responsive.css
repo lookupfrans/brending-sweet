@@ -1,18 +1,10 @@
 @media all and (max-width: 1000px) {
-    header {
-      width: 100%
-    }
-    
     .top-wrapper h1 {
       font-size: 32px;
     }
     
     section {
       width: 100%;
-    }
-  
-    .heading h2 {
-      font-size: 20px;
     }
     
     .lesson {
@@ -34,12 +26,13 @@
     section {
       width: 100%;
     }
+      
     h3 {
-      color: black;
+      color: blue;
     }
       
     p {
-      color: black;
+      color: blue;
     }
       
     span.menu-icon {
@@ -53,11 +46,17 @@
     .top-wrapper h1 {
       font-size: 24px;
       line-height: 36px;
+      color: blue;
     }
     
     .top-wrapper p {
       font-size: 14px;
       line-height: 20px;
+      color: blue;
+    }
+      
+    .icons-container {
+      width: 100%;
     }
     
     .lesson {
@@ -66,6 +65,7 @@
     
     footer {
       text-align: center;
+      width: 100%;
     }
   }
   
