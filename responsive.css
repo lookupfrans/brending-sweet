@@ -15,7 +15,34 @@
   
   
   @media all and (max-width: 670px) {
-    .lesson {
+      .header-right {
+        display: none;
+      }
+      
+      .header left img {
+        float: left;
+      }
+      
+     #header {
+       width: 100%;
+      }
+      
+     .lesson {
+       width: 100%;
+       line-height: 190px;
+       display: block;
+      }
+      
+     .top-wrapper {
+       line-height: 500px;
+       width: 100%;
+      }
+      
+    footer img {
+       float: left;
+      }
+      
+    footer {
       width: 100%;
     }
 }
