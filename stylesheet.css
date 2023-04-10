@@ -207,7 +207,6 @@
   }
   
   footer {
-    padding-top: 30px;
     padding-bottom: 20px;
     height: 40px;
     background-color: black;
@@ -216,6 +215,7 @@
   footer p {
    color: #b3aeb5;
    font-size: 12px;
+   margin-left: 50px;
   }
 
   .row {
