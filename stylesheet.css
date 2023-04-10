@@ -5,6 +5,13 @@
     margin: 0;
     padding: 0;
   }
+
+  html, body,
+  ul, ol, li,
+  h1, h2, h3, h4, h5, h6, p, div {
+    margin: 0;
+    padding: 0;
+  }
   
   body {
     font-family: "Lucida Grande";
@@ -193,11 +200,11 @@
     margin-left: 125px;
     width: 60px;
     border-radius: 70px;
+    margin-top: 20px;
   }
   
   footer {
     height: 50px;
-    background-color: black;
   }
 
   footer p {
