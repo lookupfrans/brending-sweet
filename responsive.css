@@ -14,12 +14,17 @@
   }
   
   
-  @media all and (max-width: 750px) {
+  @media all and (max-width: 670px) {
     .header-right {
       display: none;
     }
+    
+     header {
+       width: 100%;
+       margin: 0;
+    }
       
-    span.menu-icon {
+    span .menu-icon {
        display: block;
     }
       
@@ -33,10 +38,6 @@
     }
     
      logo-image {
-      width: 100%;
-    }
-      
-     row {
       width: 100%;
     }
     
@@ -60,5 +61,7 @@
       
     footer {
       text-align: center;
+      width: 100%;
+      margin: 0;
     }
   }
