@@ -3,9 +3,9 @@
       font-size: 32px;
     }
     
-    section {
+    /*section {
       width: 100%;
-    }
+    }*/
     
     .lesson {
       width: 50%;
@@ -15,11 +15,6 @@
   
   
   @media all and (max-width: 670px) {
-     header {
-      width: 100%;
-      line-height: 50px;
-    }
-      
     .header-right {
       display: none;
     }
@@ -58,8 +53,10 @@
       width: 100%;
     }
 
-    .top-wrapper {
+    .top-wrapper h1 {
       text-align: left;
+      line-height: 35px;
+      color: brown;
     }
       
     footer {
