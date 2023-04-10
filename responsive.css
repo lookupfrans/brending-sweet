@@ -25,13 +25,21 @@
       margin: 0px;
   }
       
-    menu-icon {
+    .menu-icon {
        display: block;
     }  
       
     .container {
       width: 100%;
       /*line-height: 50px;*/
+    }
+
+     li a {
+      display: none;
+    }
+
+     h4 {
+      display: none;
     }
       
     .header-right {
