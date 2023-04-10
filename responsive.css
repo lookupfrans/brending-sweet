@@ -1,4 +1,8 @@
 @media all and (max-width: 1000px) {
+    header {
+      width: 100%
+    }
+    
     .top-wrapper h1 {
       font-size: 32px;
     }
@@ -19,12 +23,23 @@
   
   
   @media all and (max-width: 670px) {
+     header {
+      width: 100%
+    }
+      
     .header-right {
       display: none;
     }
     
     section {
       width: 100%;
+    }
+    h3 {
+      color: black;
+    }
+      
+    p {
+      color: black;
     }
       
     span.menu-icon {
