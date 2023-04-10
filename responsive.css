@@ -15,35 +15,47 @@
   
   
   @media all and (max-width: 670px) {
-      .header-right {
-        display: none;
-      }
-      
-      .header left img {
-        float: left;
-      }
-      
-     #header {
+    .header-right {
+      display: none;
+    }
+    
+    span.menu-icon {
+      display: block;
+    }
+    
+    .icons-container {
        width: 100%;
       }
-      
-     .lesson {
-       width: 100%;
-       line-height: 190px;
-       display: block;
-      }
-      
-     .top-wrapper {
-       line-height: 500px;
-       width: 100%;
-      }
-      
-    footer img {
-       float: left;
-      }
-      
-    footer {
+    
+    .top-wrapper {
+      text-align: left;
+    }
+
+    .icons-container .icons h3{
+      font-size: 2rem;
+      text-align: left;
+    }
+
+    .icons-container .icons p{
+      font-size: 1rem;
+      text-align: left;
+    }
+
+    .top-wrapper {
       width: 100%;
     }
-}
-  
+
+    .top-wrapper h1 {
+      font-size: 24px;
+      line-height: 36px;
+    }
+    
+    .top-wrapper p {
+      font-size: 14px;
+      line-height: 20px;
+    }
+    
+    footer {
+      text-align: center;
+    }
+  }
