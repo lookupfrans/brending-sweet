@@ -224,6 +224,7 @@
     opacity: 0.5;
     position: absolute;
     margin-left: 70px;
+    margin-top: 10px;
     color: white;
   }
 
@@ -231,6 +232,7 @@
     opacity: 0.5;
     color: white;
     margin-left: 120px;
+    margin-top: 10px;
     position: absolute;
     list-style: none;
     font-size: 15px;
