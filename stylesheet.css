@@ -24,6 +24,10 @@
   .clear {
     clear: left;
   }
+
+  .menu icon {
+    display: none;
+  }
   
   .container {
     max-width: 1170px;
