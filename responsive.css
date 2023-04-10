@@ -19,6 +19,12 @@
       display: none;
     }
       
+    .message-wrapper {
+      border-bottom: 1px solid #eee;
+      width: 100%;
+      margin: 0px;
+  }
+      
     menu-icon {
        display: block;
     }  
@@ -46,6 +52,7 @@
       
     .lessons {
       width: 100%;
+      margin: 0px;
     }
       
     .lesson {
