@@ -32,10 +32,7 @@
     }
       
      .row .col ul li a {
-       opacity: 0.5;
-       font-size: 20px;
-       margin-bottom: 5px;
-       color: white;
+       display: none;
     }
       
     .lesson {
