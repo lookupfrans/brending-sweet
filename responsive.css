@@ -23,12 +23,9 @@
        display: block;
     }  
 
-     li a {
-      display: none;
-    }
-
-     h4 {
-      display: none;
+    .row .col ul li {
+       font-size: 20px;
+       opacity: 0.5;
     }
       
     .lesson {
