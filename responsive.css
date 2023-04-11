@@ -26,6 +26,7 @@
     .row .col ul li {
        font-size: 20px;
        opacity: 0.5;
+       margin-left: 15px;
     }
       
     .lesson {
