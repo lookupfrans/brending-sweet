@@ -77,7 +77,7 @@
       color: brown;
     }
         
-    footer {
+    footer .row {
       border-top: 2px solid #eee;
     }
   }
