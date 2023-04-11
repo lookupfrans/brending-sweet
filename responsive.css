@@ -27,6 +27,13 @@
        font-size: 20px;
        opacity: 0.5;
        margin-left: 15px;
+       opacity: 0.5;
+    }
+      
+     .row .col ul li a {
+       opacity: 0.5;
+       font-size: 15px;
+       margin-bottom: 2px;
     }
       
     .lesson {
