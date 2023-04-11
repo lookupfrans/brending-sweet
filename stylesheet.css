@@ -215,8 +215,9 @@
   footer p {
    color: #b3aeb5;
    font-size: 12px;
-   margin-left: 100px;
+   margin-left: 120px;
    margin-bottom: 10px;
+   text-align: center;
   }
 
   .row {
