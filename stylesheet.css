@@ -211,7 +211,7 @@
   
   footer {
     height: 80px;
-    /*border-top: 2px solid #eee;*/
+    border-top: 2px solid #eee;
   }
 
   .row .col ul li {
