@@ -36,6 +36,10 @@
        margin-bottom: 2px;
     }
       
+     li a {
+      margin-left: 180px;
+    }
+      
     .lesson {
       width: 100%;
     }
