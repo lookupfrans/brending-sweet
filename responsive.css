@@ -42,6 +42,10 @@
     .header-right {
       display: none;
     }
+
+    .header-left {
+       margin-left: 20px;
+    }
       
     .menu-icon {
        display: block;
