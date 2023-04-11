@@ -27,7 +27,7 @@
   }
   
   .container {
-    max-width: 1170px;
+    max-width: 1150px;
     padding: 0 20px;
     margin: 0 40px;
     width: 100%;
@@ -221,10 +221,6 @@
     font-size: 20px;
     opacity: 0.5;
     margin-top: 20px;
-  }
-
-  li a {
-    margin-left: 250px;
   }
 
   .col ul li {
