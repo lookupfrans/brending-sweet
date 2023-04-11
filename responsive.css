@@ -4,11 +4,11 @@
     }
     
     .top-wrapper {
-      width: 50%;
+      width: 100%;
     }
     
     .top-wrapper h1 {
-      width: 50%;
+      width: 100%;
     }
     
     .top-wrapper p {
@@ -27,7 +27,7 @@
       margin-bottom: 3px;
     }
     
-    .header-right {
+    .header-right a {
       margin-left: 20px;
     }
     
