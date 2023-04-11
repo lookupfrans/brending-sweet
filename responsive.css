@@ -32,6 +32,11 @@
     .menu-icon {
        display: block;
     }  
+      
+    .container {
+       margin; 0;
+       width: 100%;
+    }
 
     .row .col ul li {
        font-size: 20px;
