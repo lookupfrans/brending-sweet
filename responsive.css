@@ -28,16 +28,14 @@
        opacity: 0.5;
        margin-left: 15px;
        opacity: 0.5;
+       color: white;
     }
       
      .row .col ul li a {
        opacity: 0.5;
-       font-size: 15px;
+       font-size: 20px;
        margin-bottom: 2px;
-    }
-      
-     li a {
-      margin-left: 180px;
+       color: white;
     }
       
     .lesson {
