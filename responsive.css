@@ -7,14 +7,6 @@
       width: 100%;
     }
     
-    .top-wrapper h1 {
-      width: 100%;
-    }
-    
-    .top-wrapper p {
-      width: 50%;
-    }
-    
     .row .col ul li {
       opacity: 0.5;
       color: white;
@@ -71,10 +63,6 @@
       width: 100%;
     }
       
-    .top-wrapper {
-       float: left;
-    }
-
     .top-wrapper h1 {
       text-align: center;
       line-height: 35px;
@@ -82,6 +70,6 @@
     }
         
     footer .row {
-      border-top: 2px solid #eee;
+      /*border-top: 2px solid #eee;*/
     }
   }
