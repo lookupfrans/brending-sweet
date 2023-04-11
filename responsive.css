@@ -72,9 +72,10 @@
     }
 
     .top-wrapper h1 {
-      /*text-align: center;*/
+      text-align: left;
       line-height: 35px;
       color: brown;
+    }
         
     footer {
       border-top: 2px solid #eee;
