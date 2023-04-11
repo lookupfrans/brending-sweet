@@ -3,6 +3,18 @@
       font-size: 32px;
     }
     
+    .top-wrapper {
+      width: 50%;
+    }
+    
+    .top-wrapper h1 {
+      width: 50%;
+    }
+    
+    .top-wrapper p {
+      width: 50%;
+    }
+    
     .row .col ul li {
       opacity: 0.5;
       color: white;
