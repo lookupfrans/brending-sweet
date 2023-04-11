@@ -13,9 +13,9 @@
       opacity: 0.5;
       color: white;
     
-    /*.header-right {
-      margin-left
-    }*/
+    .header-right {
+      margin-left: 20px;
+    }
     
     .lesson {
       width: 50%;
